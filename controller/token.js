@@ -52,7 +52,7 @@ const stkPush = async(req, res) => {
         PartyA: `254${phone}`,
         PartyB: 174379,
         PhoneNumber: `254${phone}`,
-        CallBackURL: "https://413b-41-212-53-126.ap.ngrok.io/callback",
+        CallBackURL: "https://stk-daraja.up.railway.app/callback",
         AccountReference: "Mpesa Test",
         TransactionDesc: "Testing stk push",
     };
